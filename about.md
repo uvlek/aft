@@ -14,47 +14,6 @@ They say three times the charm, so here is another free responsive Jekyll theme 
 
 
 
-<h2 style="align: center;">
-	Autorinok
-	<small>(PHP - CakePHP, Muffin CMS)</small>
-</h2>
-<figure>
-	<a href="#">
-		<img src="{{ site.url }}/images/pro/large/autorinok.com.ua.png" alt="">		
-	</a>
-</figure>
-
-<h2 style="align: center;">
-	Master-Okna
-	<small>(PHP - CakePHP, Muffin CMS)</small>
-</h2>
-<figure>
-	<a href="#">
-		<img src="{{ site.url }}/images/pro/large/master-okna.com.ua.png" alt="">		
-	</a>
-</figure>
-
-<h2 style="align: center;">
-	Professional Audit Center
-	<small>(PHP - Joomla 2.5)</small>
-</h2>
-<figure>
-	<a href="#">
-		<img src="{{ site.url }}/images/pro/large/cpaudit.com.ua.png" alt="">		
-	</a>
-</figure>
-
-<h2 style="align: center;">
-	JemFest
-	<small>(PHP - Wordpress 3.2)</small>
-</h2>
-<figure>
-	<a href="#">
-		<img src="{{ site.url }}/images/pro/large/jamfest.com.ua.png" alt="">		
-	</a>
-</figure>
-
-
 
 ## What HPSTR brings to the table:
 
