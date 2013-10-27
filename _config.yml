@@ -2,7 +2,7 @@ title:            Aft
 description:      Summary. 
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://uvlek.github.io/aft/
+url:              http://uvlek.github.io/aft
 
 # Owner/author information
 owner:
