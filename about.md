@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Gororhov Aleksey Mikhailovich
+title: Gorohov Aleksey Mikhailovich
 tags: [Jekyll, theme, modern, minimal, responsive]
 image:
 feature: abstract-5.jpg
