@@ -1,26 +1,27 @@
-title:            Aft
-description:      Summary. 
-disqus_shortname: 
+title:            Ago
+description:      "{PHP, Ruby} - developer." 
+disqus_shortname: ago
 #Comment out url when working locally to resolve base urls correctly
-url:              http://uvlek.github.io/aft
+# url:              http://uvlek.github.io/aft
+url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Aleksey Gororhov
+  name:           Aleksey Gorohov
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "{PHP, Ruby} - developer."
+  email:          uvleek@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:   
   facebook:       
-  github:         
+  github:         https://github.com/uvlek
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   
+  google_plus:   https://plus.google.com/u/0/113295701684430113655
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
@@ -33,12 +34,9 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
+# links:
+#   - title: Theme Setup
+#     url: /theme-setup
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Kiev
