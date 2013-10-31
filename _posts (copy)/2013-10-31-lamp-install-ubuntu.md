@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
-tags: [sample post]
+title: LAMP install Ubuntu
+description: "Brief summed up about the LAMP installation (on Ubuntu OS)."
+modified: 2013-10-31
+tags: [lamp brief]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
